@@ -8,7 +8,7 @@
 [![Ollama](https://img.shields.io/badge/AI-Ollama-black.svg)](https://ollama.com/)
 [![Status](https://img.shields.io/badge/Status-Beta_Fechado-orange.svg)]()
 
-[![ChangelogAI Demo](assets/ChangelogAI-Showcase.png)](https://drive.google.com/file/d/1oZ7Plfzi1jfbGB4j0prnkDQsAuAg9F1r/view?usp=drive_link)
+[![ChangelogAI Demo](assets/ChangelogAI-Showcase.png)](https://youtu.be/m02ff2Y729U)
 
 ---
 
